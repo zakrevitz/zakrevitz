@@ -1,23 +1,12 @@
-### Hi there 👋
-- 🔭 I’m currently working on fuel station automatisation
-- 🌱 I’m currently learning math algorithms
+### Hola 👋
+- ⛽️ I’m currently working on fuel station automatisation
+- 🧮 I’m currently learning math algorithms
 - 👯 I’m looking to collaborate on any OpenSource app
 - 💬 Ask me about me/anything interesting
 - 📫 How to reach me: @zakrevitz on Telegram/Skype/Insta/Facebook
-- ⚡ Fun fact: There is no fun in programming
+- 😐 Fun fact: There is no fun in programming
 
 
-<!--
-**zakrevitz/zakrevitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
