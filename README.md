@@ -10,7 +10,6 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Ruby   2 hrs 5 mins    ███████████████████████▓░   94.39 % 
-JSX    7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+Ruby   2 hrs 50 mins   █████████████████████████   99.62 % 
 ```
 <!--END_SECTION:waka-->
