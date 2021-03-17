@@ -8,11 +8,5 @@
 
 
 ---
-<!--START_SECTION:waka-->
-```text
-Slim   1 hr 20 mins    ████████████▓░░░░░░░░░░░░   50.92 % 
-Ruby   54 mins         ████████▓░░░░░░░░░░░░░░░░   34.58 % 
-SCSS   19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-YAML   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-```
-<!--END_SECTION:waka-->
+<img src="https://github.com/zakrevitz/zakrevitz/blob/master/images/stat.svg" alt="Code stats"/>
+
